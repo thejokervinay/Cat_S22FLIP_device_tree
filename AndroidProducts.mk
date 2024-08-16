@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/voltage_S22FLIP.mk
+    $(LOCAL_DIR)/lineage_S22FLIP.mk
 
 COMMON_LUNCH_CHOICES := \
-    voltage_S22FLIP-ap2a-user \
-    voltage_S22FLIP-ap2a-userdebug \
-    voltage_S22FLIP-ap2a-eng
+    lineage_S22FLIP-ap2a-user \
+    lineage_S22FLIP-ap2a-userdebug \
+    lineage_S22FLIP-ap2a-eng
